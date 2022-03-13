@@ -1,0 +1,91 @@
+*{
+    /* box-sizing: border-box; */
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* .firstnav{
+    display: grid;
+} */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+    width: 1100px;
+    
+
+}
+
+/* .mainHeader{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto;
+    width: 1100px;
+    padding-left: 200px;
+} */
+
+span {
+    color: brown;
+}
+
+
+
+#searchBox{
+    width: 100px;
+    margin: 12px;
+    /* float: right; */
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+  border-color: brown;
+}
+
+.secondNav{
+    display: ;flex: ;
+    justify-content: center;
+    color: brown;
+    padding-left: 15px;
+    margin-top: 30px;
+    /* background-color: brown; */
+}
+
+.shirts{
+    display: flex;
+    margin: 0;
+    padding-left: 100px;
+
+}
+
+.no1Gucci {
+    /* background-color: brown; */
+    /* color: brown; */
+}
+
+.shirts{
+    display: flex;
+    justify-content: center;
+}
+
+.accessories h3{
+    display: flex;
+    justify-content: center;
+    padding-left: 65px;
+}
+
+.socks{
+    display: flex;
+    margin: 0;
+    padding-left: 400px;
+}
+
+/* button p{
+    display: flex;
+    padding-right: 50px;
+    justify-content: left;
+} */
